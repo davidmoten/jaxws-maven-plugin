@@ -24,3 +24,5 @@ This plugin is meant to work as a direct replacement to `org.codehaus.mojo:jaxws
   </configuration>
 </plugin>
 ```
+
+
